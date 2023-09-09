@@ -1,7 +1,9 @@
 
-
+<div align = "center"> 
 # <h2>Hi, 👋 I'm Anvarkhon <img src="https://camo.githubusercontent.com/47759b61c136ce2cc85e7485074f121356f77db9cb95e4799b92b7ab15bd61db/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32302f3030303030302f696e7374616772616d2d766572696669636174696f6e2d62616467652e706e67" />
 </h2> 
+</div>
+
 <div align="center">  
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anvrich&theme=neon&border_radius=65.5&card_width=695)](https://git.io/streak-stats)
