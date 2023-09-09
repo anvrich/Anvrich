@@ -10,7 +10,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anvrich&theme=neon&border_radius=65.5&card_width=695)](https://git.io/streak-stats)
 
 </div>
-
+<style>
+    hr{
+        whidth: 70%;
+        align: center;
+    }
+</style>
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuchizu&langs_count=10&theme=tokyonight&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="anvrich :: Top Langs"  style="float: right;" />
   
@@ -46,12 +51,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 <hr>
-<style>
-    hr{
-        whidth: 70%;
-        align: center;
-    }
-</style>
 </div>
 
 
