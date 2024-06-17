@@ -9,7 +9,7 @@ I am currently studying at ITMO University. 😎
 ### Skills
 
 - **Languages**: Java, JavaScript, C, PHP, Python
-- **Web Development**: HTML, CSS, React.js
-- **Frameworks/Libraries**: Spring, JavaFX, JDBC, Hibernate, SQL
-- **Databases**: MySQL, PostgreSQL, SQLite
+- **Web Development**: HTML, CSS, JavaScript, React.js
+- **Frameworks/Libraries**: Spring, React.js, JavaFX
+- **Databases**: PostgreSQL, JDBC, Hibernate, SQL
 - **Version Control**: Git
