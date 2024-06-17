@@ -1,7 +1,15 @@
+### Hi, 👋 I'm Anvarkhon
 
-<div align = "center"> 
-<hr>
-<h2>Hi, 👋 I'm Anvarkhon </h2> <img https://camo.githubusercontent.com/ab4402eee6d9652…16d2d766572696669636174696f6e2d62616467652e706e67 /> 
-</div>
+- 🌱 I’m currently learning Data Structures and Algorithms (DSA).
+- 💬 Ask me about anything!
+- 📫 How to reach me: [Telegram](https://t.me/anvrich7)
 
+I am currently studying at ITMO University. 😎
 
+### Skills
+
+- **Languages**: Java, JavaScript, C, PHP, Python
+- **Web Development**: HTML, CSS, React.js
+- **Frameworks/Libraries**: Spring, JavaFX, JDBC, Hibernate, SQL
+- **Databases**: MySQL, PostgreSQL, SQLite
+- **Version Control**: Git
